@@ -15,7 +15,6 @@ You can click the Preview link to take a look at your changes.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hakanhavutcu&layout=compact&theme=radical)
 
-![mustafacagri's github stats](https://github-readme-stats.vercel.app/api?username=hakanhavutcu&show_icons=true)
 
 ![Hakan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakanhavutcu&show_icons=true&theme=radical)
 
