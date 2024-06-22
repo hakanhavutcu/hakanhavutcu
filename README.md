@@ -31,7 +31,7 @@ Merhaba! Ben **[Hakan Havutcu]**, tam yığın otomasyon mühendisi olarak çal�
 
 ## 📊 GitHub İstatistiklerim
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?hakanhavutcu=your-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?hakanhavutcu=hakanhavutcu&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?hakanhavutcu=your-username&layout=compact&theme=radical)
 
 ## 🔍 Öne Çıkan Projeler
