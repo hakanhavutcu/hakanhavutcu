@@ -1,4 +1,4 @@
-# Ben Hakan Havutcu
+# Hakan Havutcu
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HakanHavutcu&color=blue)
 
